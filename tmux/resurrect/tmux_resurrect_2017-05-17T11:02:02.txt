@@ -1,0 +1,3 @@
+pane	waffle	1	:unity	1	:*	1	:/Users/viviehn/Code/unity/Roll a Ball/Assets/scripts	1	bash	:
+window	waffle	1	1	:*	bc43,132x44,0,0,6
+state	waffle	

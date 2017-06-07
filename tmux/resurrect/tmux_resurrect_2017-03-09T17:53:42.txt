@@ -1,0 +1,24 @@
+pane	2	1	:bash	1	:*	1	:/Users/viviehn	1	bash	:
+pane	9	1	:bash	1	:*	1	:/Users/viviehn/PiE/clean_website/website	1	bash	:
+pane	pancake	1	:bash	1	:*	1	:/Users/viviehn/PiE/clean_website/website	1	bash	:
+pane	pancake	2	:bash	0	:-	1	:/Users/viviehn/Code/Classwork/cs184/proj3_1_pathtracer	1	bash	:
+pane	waffle	1	:music	0	:	1	:/Users/viviehn/Code/Site	1	bash	:
+pane	waffle	2	:make	0	:	1	:/Users/viviehn/Code/Classwork/cs184	1	bash	:
+pane	waffle	3	:graphics	0	:	1	:/Users/viviehn/Code/Classwork/cs184/proj3_1_pathtracer	1	bash	:
+pane	waffle	4	:website	0	:	1	:/Users/viviehn/PiE/website	1	bash	:
+pane	waffle	5	:ng	0	:	1	:/Users/viviehn/PiE/finalcomp-2017/app/src	0	vim	:vim ../pages/home.html
+pane	waffle	5	:ng	0	:	2	:/Users/viviehn/PiE/finalcomp-2017	1	bash	:
+pane	waffle	6	:ruby	1	:*	1	:/Users/viviehn/PiE/website	1	ruby	:ruby /Users/viviehn/.rvm/gems/ruby-2.3.3/bin/jekyll serve   
+pane	waffle	7	:bash	0	:-	1	:/Users/viviehn/PiE/website	1	bash	:
+window	2	1	1	:*	bb3f,130x44,0,0,2
+window	9	1	1	:*	5e53,132x44,0,0,14
+window	pancake	1	1	:*	5e4f,132x44,0,0,10
+window	pancake	2	0	:-	5e50,132x44,0,0,11
+window	waffle	1	0	:	bfa0,225x54,0,0,3
+window	waffle	2	0	:	bfa1,225x54,0,0,4
+window	waffle	3	0	:	bfa2,225x54,0,0,5
+window	waffle	4	0	:	6008,225x54,0,0,19
+window	waffle	5	0	:	19a2,225x54,0,0[225x42,0,0,20,225x11,0,43,22]
+window	waffle	6	1	:*	e003,225x54,0,0,24
+window	waffle	7	0	:-	e004,225x54,0,0,25
+state	waffle	

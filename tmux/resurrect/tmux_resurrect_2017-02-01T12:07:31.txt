@@ -1,0 +1,11 @@
+pane	0	1	:vim	1	:*	1	:/Users/viviehn/Code/Site	1	vim	:vim sass
+pane	waffle	1	:music	0	:	1	:/Users/viviehn/Code/Site	1	Python	:/Library/Frameworks/Python.framework/Versions/3.6/Resources/Python.app/Contents/MacOS/Python /Library/Frameworks/Python.framework/Versions/3.6/bin/mpsyt
+pane	waffle	2	:make	1	:*	1	:/Users/viviehn/Code/Classwork/cs184/proj1_rasterizer/build	1	bash	:
+pane	waffle	3	:graphics	0	:-	1	:/Users/viviehn/Code/Classwork/cs184/proj1_rasterizer/svg/transforms	1	vim	:vim customcubeman.svg
+pane	waffle	4	:bash	0	:	1	:/Users/viviehn/PiE/clean_website/website	1	bash	:
+window	0	1	1	:*	be9e,204x54,0,0,1
+window	waffle	1	0	:	be9f,204x54,0,0,2
+window	waffle	2	1	:*	bea4,204x54,0,0,7
+window	waffle	3	0	:-	bea5,204x54,0,0,8
+window	waffle	4	0	:	bea6,204x54,0,0,9
+state	waffle	0

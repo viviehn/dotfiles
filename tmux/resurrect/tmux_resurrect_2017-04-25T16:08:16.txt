@@ -1,0 +1,19 @@
+pane	0	1	:vim	1	:*	1	:/Users/viviehn	1	vim	:vim
+pane	10	1	:bash	1	:*	1	:/Users/viviehn	1	bash	:
+pane	9	1	:bash	1	:*	1	:/Users/viviehn	1	bash	:
+pane	pancake	1	:bash	1	:*	1	:/Users/viviehn	1	bash	:
+pane	pancake	2	:bash	0	:-	1	:/Users/viviehn/Code/Classwork/cs184/proj3_1_pathtracer	1	bash	:
+pane	waffle	1	:music	0	:	1	:/Users/viviehn/Code/Site	1	bash	:
+pane	waffle	2	:make	0	:	1	:/Users/viviehn/Code/Classwork/cs184/cs184-final-project	1	bash	:
+pane	waffle	3	:graphics	0	:-	1	:/Users/viviehn/Code/Classwork/cs184/cs184-final-project	1	bash	:
+pane	waffle	4	:bash	1	:*	1	:/Users/viviehn/Code/Classwork/cs170	1	bash	:
+window	0	1	1	:*	bb3e,130x44,0,0,1
+window	10	1	1	:*	bb3f,130x44,0,0,2
+window	9	1	1	:*	bb40,130x44,0,0,3
+window	pancake	1	1	:*	bb41,130x44,0,0,4
+window	pancake	2	0	:-	bb42,130x44,0,0,5
+window	waffle	1	0	:	bb43,130x44,0,0,6
+window	waffle	2	0	:	bb44,130x44,0,0,7
+window	waffle	3	0	:-	bb45,130x44,0,0,8
+window	waffle	4	1	:*	5dd1,130x44,0,0,12
+state	waffle	0
